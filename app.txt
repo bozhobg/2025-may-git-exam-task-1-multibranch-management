@@ -1,2 +1,7 @@
 Initial content
+
 hotfix-security: fix
+
+feature-dashboard: Initial commit
+feature-dashboard: 2nd commit
+feature-dashboard: 3rd commit
