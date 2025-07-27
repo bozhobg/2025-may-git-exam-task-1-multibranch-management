@@ -5,3 +5,6 @@ hotfix-security: fix
 feature-auth: initial work
 feature-branch: 2nd commit
 
+feature-dashboard: Initial commit
+feature-dashboard: 2nd commit
+feature-dashboard: 3rd commit
